@@ -14,6 +14,9 @@ A simple Actix-web server with one route taking a few parameters.
 ### Official links
 
 [Rust book](https://doc.rust-lang.org/book/)
+
 [Rust Examples](https://doc.rust-lang.org/stable/rust-by-example/)
+
 [Rust Exercises](https://github.com/rust-lang/rustlings/)
+
 [Standard library](https://doc.rust-lang.org/std/index.html)
