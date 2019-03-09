@@ -1,5 +1,5 @@
 # A collection of Rust examples
-Created this for personal references.
+I created this repo for personal reference.
 
 ## Projects in this repo
 
