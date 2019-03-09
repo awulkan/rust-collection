@@ -1,0 +1,8 @@
+[package]
+name = "actix_web_simple_routing"
+version = "0.1.0"
+authors = ["Alexander"]
+edition = "2018"
+
+[dependencies]
+actix-web = "0.7.18"
