@@ -4,8 +4,8 @@ fn main() {
 }
 
 fn factorialize(num: isize) -> isize {
-    if num == 0 { return 1 }
     let mut factorial = 1;
+    if num == 0 { return factorial }
     for n in 1..=num.abs() {
         factorial *= n;
     }
