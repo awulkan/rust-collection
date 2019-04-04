@@ -4,7 +4,7 @@ fn main() {
 }
 
 fn factorialize(num: isize) -> isize {
-    if num == 0 { return num }
+    if num == 0 { return 1 }
     let mut factorial = 1;
     for n in 1..=num.abs() {
         factorial *= n;
