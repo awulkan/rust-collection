@@ -1,5 +1,6 @@
 fn main() {
-    println!("{}", factorialize(5));
+    println!("Positive factorial: {}", factorialize(-1));
+    println!("Negative factorial: {}", factorialize(-5));
 }
 
 fn factorialize(num: isize) -> isize {
